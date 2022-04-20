@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# Cuteblog
 
-You can use the [editor on GitHub](https://github.com/mesinkasir/cuteblog-pico/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hey you need to build a modern website with markdown system?? so let's get strated with cuteblog a unique blog for pico cms A stupidly simple & blazing fast, flat file CMS.
+Making the web easy.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Test drive demo [https://axcora.my.id/pico/cuteblog →](https://axcora.my.id/pico/cuteblog/)
 
-### Markdown
+![new website template cuteblog](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjN8yLkIPxTbl2vV8C2j3IFu9CFiTwRmSXE1ahdiEs06yXTeJyRSX8NBfmSpkRIDmNAFCeYG-LlOBwgBQrwxb7XRQwQ1xy75pTw0oJ90ikAXqNouNrrqHFP0kQGwiQxuIZ8aRTh27diMojUkJh5HVQB_PgOTkkTm-7k2vjRJrwfkG-MXlN3kZO6pZ8VXw/s1440/cuteblog2.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Retina display ready for multi devices
 
-```markdown
-Syntax highlighted code block
+![new website template cuteblog](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzd07HEnidNa5j6BU0MlfvMtbcADQnRrGBanlEcSWuB8sltgy7JAId6u1TLSvXLErmn-wG55QwWiNcbwx9LQU1V-I1aFgJjm2C0n-K1Ln19y5iN7vzK_LQfqATOrgckXZwLj7J5Etp9Q9A03rPpLH_qjy3ysdsN0iCbuFA2_rPz24Z0c95y6NjjOZwLA/s1440/cuteblog1.png)
 
-# Header 1
-## Header 2
-### Header 3
+So cute 😍
 
-- Bulleted
-- List
+![new website template cuteblog](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWTKQXcvhBWTQJlrjVOeFnuc2IfvduhYAdq-_UlnP2Q4sU1BXFOwCN2UqBluMZe5QSgyL6VzsiI2-eiiF0Bc9eDsYBlL727y5myprr53AbQfjLBEOaBdmV2tqvev4i2GVBvjFVhJRVwYlvqEzygM5KWSzGU5gV1RY5hUFI5AVCjOJzRcnSa0dtjgVQHg/s1440/cuteblog3.png)
 
-1. Numbered
-2. List
+just download and upload it this template on your pico cms themes folder, then change your default themes with open config folder and edit config.yml files.
 
-**Bold** and _Italic_ and `Code` text
+you need change themes from
 
-[Link](url) and ![Image](src)
-```
+`theme: default`
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+to
 
-### Jekyll Themes
+`theme: cuteblog`
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mesinkasir/cuteblog-pico/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
